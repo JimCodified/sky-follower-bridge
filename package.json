@@ -13,7 +13,7 @@
     "run-client": "ts-node --project tsconfig.script.json scripts/client.ts"
   },
   "dependencies": {
-    "@atproto/api": "^0.6.4",
+    "@atproto/api": "^0.6.23",
     "@changesets/cli": "^2.26.2",
     "@plasmohq/messaging": "^0.5.0",
     "@plasmohq/storage": "^1.7.2",
